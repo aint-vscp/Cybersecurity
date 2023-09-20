@@ -4,4 +4,4 @@ This application will create a log file named `key_sequences.txt` that contains 
 
 **IMPORTANT:** This is a simple educational example. Keyloggers can be used maliciously to steal sensitive information. Always use such tools responsibly and never without explicit permission.
 
-Copyright © 2023 by Vash Puno | All Rights Reserved.
+*Copyright © 2023 by Vash Puno | All Rights Reserved.*
