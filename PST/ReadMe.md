@@ -13,3 +13,5 @@ Update Color Indicator and Suggestions:
 
 updateColorIndicator(strength) updates the color indicator element based on the password's strength level. It assigns CSS classes such as gray, red, yellow, or green to visually represent the strength.
 updateSuggestions(strength) updates the suggestionText element with password strength-specific advice, like using longer passwords or adding special characters.
+
+*Copyright © 2023 by Vash Puno | All Rights Reserved.*
